@@ -37,9 +37,6 @@ h2 {
     color: white;
     text-align: center;
 }
-.portfolio .container-fluid {
-    height: 800px;
-}
 #port-folio {
     color: #2c3e50;
     font-size: 50px;
@@ -48,4 +45,27 @@ h2 {
 .port {
     width: 466px;
     margin-top: 15px;
+}
+.about .container-fluid {
+    margin-top: 40px;
+    background-color: #1abc9c;
+}
+.titolo {
+    margin-top: 20px;
+}
+.titolo h2 {
+    font-size: 40px;
+}
+.parte-sx p, .parte-dx p {
+    color: white;
+    font-size: 20px;
+}
+.free-download {
+    margin-top: 60px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.free-download a {
+    color: white;
+    background-color: #1abc9c;
 }
