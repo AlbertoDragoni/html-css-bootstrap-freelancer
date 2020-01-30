@@ -18,8 +18,8 @@ header .container-fluid .row {
     color: white;
 }
 section .container-fluid {
-    height: 700px;
     background-color: #1abc9c;
+    padding-bottom: 40px;
 }
 .immagine {
     text-align: center;
@@ -31,5 +31,17 @@ section .container-fluid {
 h1 {
     font-size: 60px;
     color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+.portfolio .container-fluid {
+    height: 800px;
+}
+#port-folio {
+    color: #2c3e50;
+    font-size: 50px;
     text-align: center;
 }
