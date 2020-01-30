@@ -1,0 +1,35 @@
+header .container-fluid .row {
+    background-color: #2c3e50;
+}
+.col-xs-12 h3 {
+    color: white;
+    line-height: 50px;
+}
+.col-xs-12 button {
+    margin-top: 20px;
+    background-color: #1abc9c;
+    color: white;
+}
+.menu-container h4 {
+    line-height: 70px;
+    float: right;
+    padding-left: 15px;
+    display: inline;
+    color: white;
+}
+section .container-fluid {
+    height: 700px;
+    background-color: #1abc9c;
+}
+.immagine {
+    text-align: center;
+}
+#immagine-tipo {
+    display: inline-block;
+    width: 240px;
+}
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
