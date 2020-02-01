@@ -43,7 +43,7 @@ header {
 }
 section {
 padding-top: 100px;
-padding-bottom: 100px;
+padding-bottom: 80px;
 }
 .ms--jumbotron-img{
     max-width: 250px;
@@ -77,6 +77,19 @@ padding-bottom: 100px;
     padding: 0 20px;
 }
 .ms--central-img {
-    padding-top: 15px;
-    max-width: 400px;
+    margin-top: 20px;
+    width: 400px;
+    border-radius: 10px;
+}
+.free-download {
+    margin-top: 25px;
+}
+.free-download .btn-default {
+    background-color: #1abc9c;
+    border: 1px solid white;
+    color: white;
+    padding: 15px;
+}
+.glyphicon-save {
+    margin-right: 10px;
 }
