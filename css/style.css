@@ -10,6 +10,10 @@
     background-color: white;
     color: #2c3e50;
 }
+
+header {
+    height: 50px;
+}
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: #148f77;
 }
@@ -28,4 +32,19 @@
 }
 .navbar-default .navbar-toggle {
     border-color: #1abc9c
+}
+section {
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.ms--jumbotron-img{
+    max-width: 250px;
+}
+.ms--star::before,
+.ms--star::after {
+    content: '';
+    display: inline-block;
+    width: 100px;
+    height: 2px;
+    background-color: white;
 }
