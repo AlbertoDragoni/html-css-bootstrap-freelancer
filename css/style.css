@@ -189,3 +189,6 @@ padding-bottom: 80px;
     font-size: 10px;
     color: white;
 }
+.ms--central-img:hover {
+    background-color: #1abc9c;
+}
