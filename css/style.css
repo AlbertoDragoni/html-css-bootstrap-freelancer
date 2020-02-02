@@ -125,3 +125,58 @@ padding-bottom: 80px;
 .send-button .btn-default:hover {
     background-color: teal;
 }
+.ms--sx-text {
+    text-align: center;
+}
+.ms--sx-text h3 {
+    font-size: 30px;
+}
+.fb-logo {
+    width: 35px;
+    font-size: 25px;
+    border: 2px solid white;
+    display: inline-block;
+    border-radius: 50%;
+    padding-left: 5px;
+
+}
+.twitter-logo {
+    width: 35px;
+    font-size: 25px;
+    border: 2px solid white;
+    display: inline-block;
+    border-radius: 50%;
+    padding-left: 5px;
+    margin-left: 20px;
+}
+.linkdin-logo {
+    width: 35px;
+    font-size: 25px;
+    border: 2px solid white;
+    display: inline-block;
+    border-radius: 50%;
+    padding-left: 5px;
+    margin-left: 20px;
+}
+.basket-logo {
+    width: 35px;
+    font-size: 25px;
+    border: 2px solid white;
+    display: inline-block;
+    border-radius: 50%;
+    padding-left: 3px;
+    margin-left: 20px;
+}
+.logos:hover {
+    background-color: white;
+    color: #2c3e50;
+}
+.starter-btn {
+    color: #1e7062;
+}
+.freelancer p {
+    font-size: 20px;
+}
+#loco {
+    font-size: 20px;
+}
