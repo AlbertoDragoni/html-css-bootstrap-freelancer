@@ -180,3 +180,12 @@ padding-bottom: 80px;
 #loco {
     font-size: 20px;
 }
+.copyright {
+    height: 80px;
+    background-color: #1a252f;
+}
+.copyright p {
+    line-height: 80px;
+    font-size: 10px;
+    color: white;
+}
